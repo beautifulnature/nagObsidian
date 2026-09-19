@@ -1,0 +1,12 @@
+# Obsidian workspace settings
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Optional: ignore installed plugin files
+# Uncomment only if you do not want to version plugins
+# .obsidian/plugins/

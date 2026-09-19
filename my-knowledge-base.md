@@ -1,0 +1,11 @@
+* just do it
+* moto: learn -> make -> earn -> learn
+* [[next]]
+* core
+	* [[academic]]
+	* [[arts]]
+	* [[automation]]
+	* [[wealth]]
+* [[schedule]]
+* [[resources]]
+* [[official]]
