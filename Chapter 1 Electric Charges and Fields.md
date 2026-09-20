@@ -10,4 +10,6 @@
 # Electric Field lines
 # Electric Flux
 # Electric Dipole
-# Diploe in a 
+# Diploe in a Uniform External Field
+# Gauss's Law
+# Application of Gauss's Law

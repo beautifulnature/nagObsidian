@@ -26,18 +26,18 @@ part 2
 ## ncert-physics-12
 Part 1
 	[[Chapter 1 Electric Charges and Fields]]
-	Chapter 2 Electrostatic Potential and Capacitance
-	Chapter 3 Current Electricity
-	Chapter 4 Moving Charges and Magnetism
-	Chapter 5 Magnetism and Matter
-	Chapter 6 Electromagnetic Induction
-	Chapter 7 Alternating Current
-	Chapter 8 Electromagnetic Waves
+	[[Chapter 2 Electrostatic Potential and Capacitance]]
+	[[Chapter 3 Current Electricity]]
+	[[Chapter 4 Moving Charges and Magnetism]]
+	[[Chapter 5 Magnetism and Matter]]
+	[[Chapter 6 Electromagnetic Induction]]
+	[[Chapter 7 Alternating Current]]
+	[[Chapter 8 Electromagnetic Waves]]
 Part 2
-	Chapter 9 Ray Optics and Optical instruments
-	Chapter 10 Wave Optics
-	Chapter 11 Dual Nature of Radiation and Matter
-	Chapter 12 Atoms
-	Chapter 13 Nuclei
-	Chapter 14 Semiconductor Electronics
-	Chapter 15 Communication Systems
+	[[Chapter 9 Ray Optics and Optical instruments]]
+	[[Chapter 10 Wave Optics]]
+	[[Chapter 11 Dual Nature of Radiation and Matter]]
+	[[Chapter 12 Atoms]]
+	[[Chapter 13 Nuclei]]
+	[[Chapter 14 Semiconductor Electronics]]
+	[[Appendices-2]]
