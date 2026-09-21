@@ -1,5 +1,6 @@
 [[keph106.pdf]]
 # introduction
+## The Scalar Product
 # notions of work and kinetic energy: the work-energy theorem
 # work
 # kinetic energy
